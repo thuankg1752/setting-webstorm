@@ -1,11 +1,11 @@
-<scheme name="TanHong" version="142" parent_scheme="Darcula">
+<scheme name="_@user_TanHong" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2023-05-09T22:51:54</property>
-    <property name="ide">PhpStorm</property>
+    <property name="created">2023-05-09T23:01:02</property>
+    <property name="ide">WebStorm</property>
     <property name="ideVersion">2023.1.1.0.0</property>
-    <property name="modified">2023-05-09T22:55:53</property>
-    <property name="originalScheme">_@user_Xcode-Dark</property>
+    <property name="modified">2023-05-09T23:01:05</property>
+    <property name="originalScheme">TanHong</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Consolas" />
   <option name="CONSOLE_LINE_SPACING" value="1.2" />
