@@ -3,7 +3,7 @@
     <property name="created">2023-05-04T23:28:31</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2023.1.1.0.0</property>
-    <property name="modified">2023-05-05T15:31:49</property>
+    <property name="modified">2023-05-09T22:50:42</property>
     <property name="originalScheme">Dark</property>
   </metaInfo>
   <colors>
@@ -17,7 +17,6 @@
     <option name="DIFF_SEPARATORS_BACKGROUND" value="2b2d30" />
     <option name="DOCUMENTATION_COLOR" value="2b2d30" />
     <option name="DOC_COMMENT_GUIDE" value="394d3f" />
-    <option name="DOC_COMMENT_LINK" value="3887a1" />
     <option name="ERROR_HINT" value="402929" />
     <option name="FILESTATUS_ADDED" value="c3e887" />
     <option name="FILESTATUS_DELETED" value="f77669" />
@@ -42,7 +41,6 @@
     <option name="INLINE_REFACTORING_SETTINGS_FOCUSED" value="393b40" />
     <option name="INLINE_REFACTORING_SETTINGS_HOVERED" value="393b40" />
     <option name="LINE_NUMBERS_COLOR" value="4b5059" />
-    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="a1a3ab" />
     <option name="LOOKUP_COLOR" value="2b2d30" />
     <option name="METHOD_SEPARATORS_COLOR" value="43454a" />
     <option name="MODIFIED_LINES_COLOR" value="1384de" />
@@ -198,7 +196,7 @@
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="7a7e85" />
+        <option name="FOREGROUND" value="628a57" />
       </value>
     </option>
     <option name="DEFAULT_BRACES">
@@ -227,15 +225,10 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="DEFAULT_DOC_COMMENT">
-      <value>
-        <option name="FOREGROUND" value="5f826b" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
     <option name="DEFAULT_DOC_COMMENT_TAG">
       <value>
-        <option name="FOREGROUND" value="67a37c" />
+        <option name="FOREGROUND" value="9afa86" />
+        <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -246,7 +239,7 @@
     </option>
     <option name="DEFAULT_DOC_MARKUP">
       <value>
-        <option name="FOREGROUND" value="68a67e" />
+        <option name="FOREGROUND" value="9afa86" />
       </value>
     </option>
     <option name="DEFAULT_DOT">
@@ -268,7 +261,7 @@
     </option>
     <option name="DEFAULT_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="bcbec4" />
+        <option name="FOREGROUND" value="fcfcfc" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
@@ -283,19 +276,25 @@
     </option>
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
       <value>
-        <option name="FOREGROUND" value="cf8e6d" />
+        <option name="FOREGROUND" value="d1243b" />
         <option name="EFFECT_COLOR" value="fa6675" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="cf8e6d" />
+        <option name="FOREGROUND" value="569cd6" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="DEFAULT_LABEL">
+      <value>
+        <option name="FOREGROUND" value="75c2b3" />
       </value>
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="7a7e85" />
+        <option name="FOREGROUND" value="7ab565" />
       </value>
     </option>
     <option name="DEFAULT_METADATA">
@@ -305,7 +304,8 @@
     </option>
     <option name="DEFAULT_NUMBER">
       <value>
-        <option name="FOREGROUND" value="2aacb8" />
+        <option name="FOREGROUND" value="b0cc8b" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
@@ -316,6 +316,12 @@
     <option name="DEFAULT_PARENTHS">
       <value>
         <option name="FOREGROUND" value="bcbec4" />
+      </value>
+    </option>
+    <option name="DEFAULT_PREDEFINED_SYMBOL">
+      <value>
+        <option name="FOREGROUND" value="d4d9aa" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_REASSIGNED_LOCAL_VARIABLE">
@@ -351,7 +357,7 @@
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="6aab73" />
+        <option name="FOREGROUND" value="ca896e" />
       </value>
     </option>
     <option name="DEFAULT_TAG">
@@ -366,7 +372,7 @@
     </option>
     <option name="DEFAULT_VALID_STRING_ESCAPE">
       <value>
-        <option name="FOREGROUND" value="cf8e6d" />
+        <option name="FOREGROUND" value="fcfcfc" />
       </value>
     </option>
     <option name="DEPRECATED_ATTRIBUTES">
@@ -473,6 +479,7 @@
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
+        <option name="FOREGROUND" value="d49072" />
         <option name="BACKGROUND" value="293c40" />
       </value>
     </option>
@@ -627,8 +634,10 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="43454a" />
+        <option name="BACKGROUND" value="585859" />
         <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="585859" />
+        <option name="ERROR_STRIPE_COLOR" value="585859" />
       </value>
     </option>
     <option name="MATCHED_TAG_NAME">
@@ -740,7 +749,7 @@
       <value>
         <option name="FOREGROUND" value="8bb33d" />
         <option name="FONT_TYPE" value="2" />
-        <option name="ERROR_STRIPE_COLOR" value="73ad2b" />
+        <option name="ERROR_STRIPE_COLOR" value="977ab" />
       </value>
     </option>
     <option name="TYPE_PARAMETER_NAME_ATTRIBUTES">
@@ -752,11 +761,6 @@
       <value>
         <option name="EFFECT_COLOR" value="7ec482" />
         <option name="EFFECT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="UNMATCHED_BRACE_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="f75464" />
       </value>
     </option>
     <option name="Unresolved reference access">
@@ -775,8 +779,8 @@
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="402f33" />
-        <option name="ERROR_STRIPE_COLOR" value="ba6387" />
+        <option name="BACKGROUND" value="3169b0" />
+        <option name="ERROR_STRIPE_COLOR" value="3e8ee3" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
