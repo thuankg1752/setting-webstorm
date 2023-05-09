@@ -3,7 +3,7 @@
     <property name="created">2023-05-09T23:16:35</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2023.1.1.0.0</property>
-    <property name="modified">2023-05-09T23:54:05</property>
+    <property name="modified">2023-05-09T23:55:50</property>
     <property name="originalScheme">_@user_TanHong</property>
   </metaInfo>
   <colors>
@@ -408,6 +408,18 @@
     <option name="DEFAULT_VALID_STRING_ESCAPE">
       <value>
         <option name="FOREGROUND" value="d7ba7d" />
+      </value>
+    </option>
+    <option name="DIFF_CONFLICT">
+      <value>
+        <option name="BACKGROUND" value="3d2319" />
+        <option name="ERROR_STRIPE_COLOR" value="9e392e" />
+      </value>
+    </option>
+    <option name="DIFF_INSERTED">
+      <value>
+        <option name="BACKGROUND" value="345a32" />
+        <option name="ERROR_STRIPE_COLOR" value="447152" />
       </value>
     </option>
     <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">
