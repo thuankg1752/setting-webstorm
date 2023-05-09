@@ -1,10 +1,10 @@
-<scheme name="_@user_TanHong-Dark" version="142" parent_scheme="Darcula">
+<scheme name="TanHong-Dark" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2023-05-09T23:25:13</property>
+    <property name="created">2023-05-09T23:16:35</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2023.1.1.0.0</property>
-    <property name="modified">2023-05-09T23:28:07</property>
-    <property name="originalScheme">TanHong-Dark</property>
+    <property name="modified">2023-05-09T23:20:09</property>
+    <property name="originalScheme">_@user_TanHong</property>
   </metaInfo>
   <colors>
     <option name="CARET_COLOR" value="adaeac" />
@@ -242,8 +242,7 @@
     </option>
     <option name="DEFAULT_CLASS_NAME">
       <value>
-        <option name="FOREGROUND" value="37ff58" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FOREGROUND" value="4ec9b0" />
       </value>
     </option>
     <option name="DEFAULT_CLASS_REFERENCE">
@@ -284,13 +283,11 @@
     <option name="DEFAULT_FUNCTION_CALL">
       <value>
         <option name="FOREGROUND" value="dbdbaa" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">
       <value>
         <option name="FOREGROUND" value="dcdcaa" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_GLOBAL_VARIABLE">
@@ -323,12 +320,6 @@
     <option name="DEFAULT_KEYWORD">
       <value>
         <option name="FOREGROUND" value="569cd6" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="DEFAULT_LABEL">
-      <value>
-        <option name="FOREGROUND" value="75c2b3" />
       </value>
     </option>
     <option name="DEFAULT_LINE_COMMENT">
@@ -349,7 +340,6 @@
     <option name="DEFAULT_NUMBER">
       <value>
         <option name="FOREGROUND" value="b4cda8" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_PARAMETER">
