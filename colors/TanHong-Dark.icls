@@ -3,7 +3,7 @@
     <property name="created">2023-05-09T23:16:35</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2023.1.1.0.0</property>
-    <property name="modified">2023-05-13T16:49:30</property>
+    <property name="modified">2023-05-13T16:53:20</property>
     <property name="originalScheme">_@user_TanHong</property>
   </metaInfo>
   <colors>
@@ -658,7 +658,7 @@
     <option name="JS.GLOBAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="JS.GLOBAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="4ec9b0" />
+        <option name="FOREGROUND" value="3cd3b4" />
       </value>
     </option>
     <option name="JS.IMPORT_SPECIFIER">
@@ -670,6 +670,7 @@
     <option name="JS.KEYWORD">
       <value>
         <option name="FOREGROUND" value="569cd6" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="JS.LOCAL_VARIABLE">
