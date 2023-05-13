@@ -3,7 +3,7 @@
     <property name="created">2023-05-09T23:16:35</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2023.1.1.0.0</property>
-    <property name="modified">2023-05-13T16:37:45</property>
+    <property name="modified">2023-05-13T16:49:30</property>
     <property name="originalScheme">_@user_TanHong</property>
   </metaInfo>
   <colors>
@@ -335,7 +335,7 @@
     </option>
     <option name="DEFAULT_INTERFACE_NAME">
       <value>
-        <option name="FOREGROUND" value="3d8f7f" />
+        <option name="FOREGROUND" value="2ff16" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -1205,6 +1205,12 @@
     <option name="TS.MODULE_KEYWORD">
       <value>
         <option name="FOREGROUND" value="c586c0" />
+      </value>
+    </option>
+    <option name="TS.MODULE_NAME">
+      <value>
+        <option name="FOREGROUND" value="94dbfd" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="TS.PRIMITIVE.TYPES">
