@@ -3,7 +3,7 @@
     <property name="created">2023-05-09T23:16:35</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2023.1.1.0.0</property>
-    <property name="modified">2023-05-13T16:53:20</property>
+    <property name="modified">2023-05-14T18:20:08</property>
     <property name="originalScheme">_@user_TanHong</property>
   </metaInfo>
   <colors>
@@ -642,11 +642,18 @@
     <option name="JS.DECORATOR">
       <value>
         <option name="FOREGROUND" value="dcdcaa" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="JS.DOC_TYPE">
       <value>
         <option name="FOREGROUND" value="4ec9b0" />
+      </value>
+    </option>
+    <option name="JS.EXPORTED.CLASS">
+      <value>
+        <option name="FOREGROUND" value="4ec9b0" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="JS.FROM_KEYWORD">
@@ -659,6 +666,7 @@
     <option name="JS.GLOBAL_VARIABLE">
       <value>
         <option name="FOREGROUND" value="3cd3b4" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="JS.IMPORT_SPECIFIER">
@@ -1217,6 +1225,11 @@
     <option name="TS.PRIMITIVE.TYPES">
       <value>
         <option name="FOREGROUND" value="4ec9b0" />
+      </value>
+    </option>
+    <option name="TS.TYPE_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="44fff2" />
       </value>
     </option>
     <option name="TYPE_PARAMETER_NAME_ATTRIBUTES">
