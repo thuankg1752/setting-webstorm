@@ -3,7 +3,7 @@
     <property name="created">2023-05-09T23:16:35</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2023.1.1.0.0</property>
-    <property name="modified">2023-05-14T18:20:08</property>
+    <property name="modified">2023-05-14T18:35:26</property>
     <property name="originalScheme">_@user_TanHong</property>
   </metaInfo>
   <colors>
@@ -360,6 +360,7 @@
     <option name="DEFAULT_LOCAL_VARIABLE">
       <value>
         <option name="FOREGROUND" value="94dbfd" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_METADATA">
@@ -377,6 +378,7 @@
     <option name="DEFAULT_PARAMETER">
       <value>
         <option name="FOREGROUND" value="94dbfd" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_PREDEFINED_SYMBOL">
@@ -684,6 +686,7 @@
     <option name="JS.LOCAL_VARIABLE">
       <value>
         <option name="FOREGROUND" value="9cdcfe" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="JS.PARAMETER">
@@ -1117,6 +1120,30 @@
       </value>
     </option>
     <option name="SASS_COMMENT" baseAttributes="CSS.COMMENT" />
+    <option name="SASS_EXTEND">
+      <value>
+        <option name="FOREGROUND" value="c586c0" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="SASS_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="dcdcaa" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="SASS_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="c586c0" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="SASS_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="6d9cbe" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="dcdcaa" />
