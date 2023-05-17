@@ -22,11 +22,11 @@ You can change color correction, and interface similar to the Dark theme in WebS
 https://github.com/tanhongit/settings-repository-webstorm-dark
 ```
 
-![image](https://github.com/tanhongit/settings-repository-phpstorm-dark/assets/35853002/85a70d32-f5d4-4a7d-ab3b-c211296dcbf6)
+![image](https://github.com/tanhongit/settings-repository-webstorm-dark/assets/35853002/f9223a2f-6f9e-45c4-b15d-8d4e59e5cb1f)
 
 - Click `Overwrite Local` to overwrite the local configuration with the remote configuration.
 
-Now you can see the color scheme of WevStorm/IntelliJ IDEA has changed.
+Now you can see the color scheme of WebStorm/IntelliJ IDEA has changed.
 
 > **_Note_: Please restart WebStorm/IntelliJ IDEA after installation to take all changes.**
 
