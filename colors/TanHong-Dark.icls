@@ -3,7 +3,7 @@
     <property name="created">2023-05-09T23:16:35</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2023.1.1.0.0</property>
-    <property name="modified">2023-05-19T22:39:53</property>
+    <property name="modified">2023-05-29T18:05:45</property>
     <property name="originalScheme">_@user_TanHong</property>
   </metaInfo>
   <colors>
@@ -63,6 +63,7 @@
     <option name="BASH.VAR_USE">
       <value>
         <option name="FOREGROUND" value="9cdcfe" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="BREADCRUMBS_DEFAULT">
