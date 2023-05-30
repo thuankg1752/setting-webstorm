@@ -29,3 +29,8 @@ https://github.com/tanhongit/settings-repository-webstorm-dark
 Now you can see the color scheme of WevStorm/IntelliJ IDEA has changed.
 
 > **_Note_: Please restart WebStorm/IntelliJ IDEA after installation to take all changes.**
+
+And then, please enable this checkbox in Version control:
+
+![image](https://github.com/tanhongit/settings-repository-phpstorm-dark/assets/35853002/d1155f13-97cb-4034-9a15-20c43c1732c5)
+
