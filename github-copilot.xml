@@ -1,0 +1,9 @@
+<application>
+  <component name="github-copilot">
+    <languageAllowList>
+      <map>
+        <entry key="*" value="true" />
+      </map>
+    </languageAllowList>
+  </component>
+</application>
