@@ -8,6 +8,7 @@
       <map>
         <entry key="js.chain.hints" value="true" />
         <entry key="js.type.hints" value="true" />
+        <entry key="qodana.yaml.inspection.descriptions" value="true" />
         <entry key="ts.chain.hints" value="true" />
         <entry key="ts.enum.hints" value="true" />
         <entry key="ts.type.hints" value="true" />
@@ -38,6 +39,6 @@
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
   </component>
   <component name="InlayHintsSettings">
-    <option name="lastViewedProviderKeyId" value="Vue.parameter.hints.old.vuejs.show.names.for.all.args" />
+    <option name="lastViewedProviderKeyId" value=".inheritors" />
   </component>
 </application>
