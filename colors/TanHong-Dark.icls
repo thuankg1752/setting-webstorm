@@ -4,7 +4,7 @@
     <property name="created">2023-05-09T23:16:35</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2023.1.1.0.0</property>
-    <property name="modified">2024-02-16T10:13:01</property>
+    <property name="modified">2024-02-19T13:45:26</property>
     <property name="originalScheme">_@user_TanHong</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -705,7 +705,7 @@
         <option name="BACKGROUND" value="1e1e1e" />
       </value>
     </option>
-    <option name="JS.GLOBAL_FUNCTION" baseAttributes="" />
+    <option name="JS.GLOBAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="JS.GLOBAL_VARIABLE">
       <value>
         <option name="FOREGROUND" value="3cd3b4" />
@@ -717,7 +717,7 @@
         <option name="FOREGROUND" value="9cdcfe" />
       </value>
     </option>
-    <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="" />
+    <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
     <option name="JS.KEYWORD">
       <value>
         <option name="FOREGROUND" value="569cd6" />
@@ -1181,7 +1181,7 @@
         <option name="FOREGROUND" value="4ec9b0" />
       </value>
     </option>
-    <option name="SASS_COMMENT" baseAttributes="" />
+    <option name="SASS_COMMENT" baseAttributes="CSS.COMMENT" />
     <option name="SASS_EXTEND">
       <value>
         <option name="FOREGROUND" value="c586c0" />
@@ -1379,8 +1379,8 @@
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
-    <option name="XML_TAG_DATA" baseAttributes="" />
-    <option name="XML_TAG_NAME" baseAttributes="" />
+    <option name="XML_TAG_DATA" baseAttributes="TEXT" />
+    <option name="XML_TAG_NAME" baseAttributes="DEFAULT_KEYWORD" />
     <option name="XPATH.KEYWORD" baseAttributes="" />
     <option name="XPATH.XPATH_VARIABLE" baseAttributes="" />
   </attributes>
