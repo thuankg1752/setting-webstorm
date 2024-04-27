@@ -1,0 +1,8 @@
+<application>
+  <component name="FileTypeManager" version="19">
+    <extensionMap>
+      <mapping pattern="step" type="AUTO_DETECTED" />
+      <mapping ext="plantuml" type="PlantUML file" />
+    </extensionMap>
+  </component>
+</application>
