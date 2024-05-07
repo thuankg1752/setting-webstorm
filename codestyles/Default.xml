@@ -6,7 +6,8 @@
     </value>
   </option>
   <HTMLCodeStyleSettings>
-    <option name="HTML_ATTRIBUTE_WRAP" value="2" />
+    <option name="HTML_KEEP_WHITESPACES" value="true" />
+    <option name="HTML_ATTRIBUTE_WRAP" value="4" />
     <option name="HTML_TEXT_WRAP" value="0" />
     <option name="HTML_SPACE_INSIDE_EMPTY_TAG" value="true" />
     <option name="HTML_ENFORCE_QUOTES" value="true" />
@@ -52,6 +53,7 @@
       <option name="INDENT_SIZE" value="2" />
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
       <option name="TAB_SIZE" value="2" />
+      <option name="USE_TAB_CHARACTER" value="true" />
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
