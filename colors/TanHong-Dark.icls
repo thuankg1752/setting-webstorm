@@ -64,7 +64,7 @@
         <option name="FOREGROUND" value="c586c0" />
       </value>
     </option>
-    <option name="BASH.SHEBANG" baseAttributes="" />
+    <option name="BASH.SHEBANG" baseAttributes="BASH.LINE_COMMENT" />
     <option name="BASH.VAR_USE">
       <value>
         <option name="FOREGROUND" value="9cdcfe" />
@@ -1182,7 +1182,7 @@
         <option name="FOREGROUND" value="4ec9b0" />
       </value>
     </option>
-    <option name="SASS_COMMENT" baseAttributes="CSS.COMMENT" />
+    <option name="SASS_COMMENT" baseAttributes="" />
     <option name="SASS_EXTEND">
       <value>
         <option name="FOREGROUND" value="c586c0" />
