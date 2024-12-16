@@ -8,6 +8,7 @@
     <property name="originalScheme">_@user_TanHong</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Consolas" />
+  <option name="CONSOLE_FONT_SIZE" value="19" />
   <option name="CONSOLE_LINE_SPACING" value="1.2" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="26cd26" />
