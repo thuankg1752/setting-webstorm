@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Don't commit" />
+    <option name="defaultScopeName" value="Don't commit" />
+    <option name="SEARCH_SCOPE" value="Don't commit" />
     <mask>*.xml</mask>
     <mask>*.css</mask>
     <mask>*.htm</mask>
