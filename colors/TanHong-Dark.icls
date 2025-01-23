@@ -8,9 +8,10 @@
     <property name="originalScheme">_@user_TanHong</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="20" />
+  <option name="EDITOR_FONT_SIZE" value="19" />
   <option name="EDITOR_FONT_NAME" value="Consolas" />
   <option name="CONSOLE_FONT_NAME" value="Consolas" />
+  <option name="CONSOLE_FONT_SIZE" value="20" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="26cd26" />
     <option name="CARET_COLOR" value="adaeac" />
