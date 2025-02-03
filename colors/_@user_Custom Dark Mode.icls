@@ -1,9 +1,8 @@
-<scheme name="Custom Dark Mode" version="142" parent_scheme="Darcula">
+<scheme name="_@user_Custom Dark Mode" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2024.3.2.1.0.0</property>
-    <property name="originalScheme">TanHong-Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="19" />
