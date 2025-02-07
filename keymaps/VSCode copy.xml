@@ -1,4 +1,5 @@
 <keymap version="1" name="VSCode copy" parent="VSCode">
+  <action id="DatabaseView.PropertiesAction" />
   <action id="EditorCloneCaretAbove">
     <keyboard-shortcut first-keystroke="shift ctrl up" />
   </action>
