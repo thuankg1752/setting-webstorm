@@ -1,0 +1,10 @@
+<application>
+  <component name="FileTypeManager" version="19">
+    <extensionMap>
+      <mapping pattern="checked" type="AUTO_DETECTED" />
+      <mapping pattern="step" type="AUTO_DETECTED" />
+      <mapping pattern=".eslintignore" type="PLAIN_TEXT" />
+      <mapping ext="plantuml" type="PlantUML file" />
+    </extensionMap>
+  </component>
+</application>
