@@ -5,10 +5,10 @@
     <property name="ideVersion">2024.3.2.1.0.0</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="19" />
+  <option name="EDITOR_FONT_SIZE" value="16" />
   <option name="EDITOR_FONT_NAME" value="Consolas" />
   <option name="CONSOLE_FONT_NAME" value="Consolas" />
-  <option name="CONSOLE_FONT_SIZE" value="20" />
+  <option name="CONSOLE_FONT_SIZE" value="18" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="26cd26" />
     <option name="CARET_COLOR" value="adaeac" />
@@ -62,7 +62,7 @@
         <option name="FOREGROUND" value="c586c0" />
       </value>
     </option>
-    <option name="BASH.SHEBANG" baseAttributes="" />
+    <option name="BASH.SHEBANG" baseAttributes="BASH.LINE_COMMENT" />
     <option name="BASH.VAR_USE">
       <value>
         <option name="FOREGROUND" value="9cdcfe" />
@@ -1179,7 +1179,7 @@
         <option name="FOREGROUND" value="4ec9b0" />
       </value>
     </option>
-    <option name="SASS_COMMENT" baseAttributes="" />
+    <option name="SASS_COMMENT" baseAttributes="CSS.COMMENT" />
     <option name="SASS_EXTEND">
       <value>
         <option name="FOREGROUND" value="c586c0" />
