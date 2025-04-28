@@ -10,24 +10,24 @@
   <option name="CONSOLE_FONT_NAME" value="Consolas" />
   <option name="CONSOLE_FONT_SIZE" value="18" />
   <colors>
-    <option name="ADDED_LINES_COLOR" value="26cd26" />
-    <option name="CARET_COLOR" value="adaeac" />
+    <option name="ADDED_LINES_COLOR" value="26CD26" />
+    <option name="CARET_COLOR" value="ADAEAC" />
     <option name="CARET_ROW_COLOR" value="262626" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="1e1e1e" />
-    <option name="DELETED_LINES_COLOR" value="ff0202" />
-    <option name="DOCUMENTATION_COLOR" value="2a2a2a" />
-    <option name="GUTTER_BACKGROUND" value="1d1d1d" />
-    <option name="IGNORED_ADDED_LINES_BORDER_COLOR" value="34d034" />
-    <option name="IGNORED_DELETED_LINES_BORDER_COLOR" value="ff0202" />
-    <option name="IGNORED_MODIFIED_LINES_BORDER_COLOR" value="8fff" />
-    <option name="INDENT_GUIDE" value="3b3b3b" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="1E1E1E" />
+    <option name="DELETED_LINES_COLOR" value="FF0202" />
+    <option name="DOCUMENTATION_COLOR" value="2A2A2A" />
+    <option name="GUTTER_BACKGROUND" value="1D1D1D" />
+    <option name="IGNORED_ADDED_LINES_BORDER_COLOR" value="34D034" />
+    <option name="IGNORED_DELETED_LINES_BORDER_COLOR" value="FF0202" />
+    <option name="IGNORED_MODIFIED_LINES_BORDER_COLOR" value="008FFF" />
+    <option name="INDENT_GUIDE" value="3B3B3B" />
     <option name="LOOKUP_COLOR" value="282828" />
-    <option name="MODIFIED_LINES_COLOR" value="1384de" />
-    <option name="RIGHT_MARGIN_COLOR" value="3b3b3b" />
-    <option name="SELECTION_BACKGROUND" value="264e77" />
-    <option name="VISUAL_INDENT_GUIDE" value="3b3b3b" />
-    <option name="WHITESPACES" value="4f535f" />
-    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="3637ff" />
+    <option name="MODIFIED_LINES_COLOR" value="1384DE" />
+    <option name="RIGHT_MARGIN_COLOR" value="3B3B3B" />
+    <option name="SELECTION_BACKGROUND" value="264E77" />
+    <option name="VISUAL_INDENT_GUIDE" value="3B3B3B" />
+    <option name="WHITESPACES" value="4F535F" />
+    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="3637FF" />
   </colors>
   <attributes>
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
@@ -62,7 +62,7 @@
         <option name="FOREGROUND" value="c586c0" />
       </value>
     </option>
-    <option name="BASH.SHEBANG" baseAttributes="BASH.LINE_COMMENT" />
+    <option name="BASH.SHEBANG" baseAttributes="" />
     <option name="BASH.VAR_USE">
       <value>
         <option name="FOREGROUND" value="9cdcfe" />
@@ -1179,7 +1179,7 @@
         <option name="FOREGROUND" value="4ec9b0" />
       </value>
     </option>
-    <option name="SASS_COMMENT" baseAttributes="CSS.COMMENT" />
+    <option name="SASS_COMMENT" baseAttributes="" />
     <option name="SASS_EXTEND">
       <value>
         <option name="FOREGROUND" value="c586c0" />
