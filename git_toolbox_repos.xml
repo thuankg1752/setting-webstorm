@@ -28,6 +28,15 @@
           </option>
         </RepoTypeConfig>
       </entry>
+      <entry type="GITLAB">
+        <RepoTypeConfig>
+          <option name="fetchUriGlobs">
+            <list>
+              <option value="" />
+            </list>
+          </option>
+        </RepoTypeConfig>
+      </entry>
     </configForRepoType>
   </component>
 </application>

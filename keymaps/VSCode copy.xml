@@ -1,6 +1,24 @@
 <keymap version="1" name="VSCode copy" parent="VSCode">
-  <action id="EditorToggleInsertState" />
-  <action id="OpenInlineChatAction">
-    <keyboard-shortcut first-keystroke="shift ctrl g" />
+  <action id="DatabaseView.PropertiesAction" />
+  <action id="EditorCloneCaretAbove">
+    <keyboard-shortcut first-keystroke="shift ctrl up" />
+  </action>
+  <action id="EditorCloneCaretBelow">
+    <keyboard-shortcut first-keystroke="shift ctrl down" />
+  </action>
+  <action id="EditorDownWithSelection">
+    <keyboard-shortcut first-keystroke="shift down" />
+  </action>
+  <action id="EditorUpWithSelection">
+    <keyboard-shortcut first-keystroke="shift up" />
+  </action>
+  <action id="Table-selectPreviousRowExtendSelection">
+    <keyboard-shortcut first-keystroke="shift up" />
+  </action>
+  <action id="Terminal.ExpandBlockSelectionAbove">
+    <keyboard-shortcut first-keystroke="shift up" />
+  </action>
+  <action id="Tree-selectPreviousExtendSelection">
+    <keyboard-shortcut first-keystroke="shift up" />
   </action>
 </keymap>
