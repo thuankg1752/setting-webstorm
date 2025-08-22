@@ -2,6 +2,7 @@
   <component name="LafManager">
     <lafs-to-previous-schemes>
       <laf-to-scheme laf="ExperimentalDark" scheme="_@user_Custom Dark Mode" />
+      <laf-to-scheme laf="dinbtechit-7ef0c378d737e162955f3e028dcf9ccb" scheme="_@user_Custom Dark Mode" />
     </lafs-to-previous-schemes>
   </component>
 </application>
