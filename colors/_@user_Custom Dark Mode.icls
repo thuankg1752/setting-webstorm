@@ -5,10 +5,15 @@
     <property name="ideVersion">2024.3.2.1.0.0</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="16" />
-  <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Consolas" />
+    <option name="EDITOR_FONT_SIZE" value="19" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
+    <option name="EDITOR_FONT_SIZE" value="19" />
+  </font>
   <option name="CONSOLE_FONT_NAME" value="Consolas" />
-  <option name="CONSOLE_FONT_SIZE" value="18" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="26CD26" />
     <option name="CARET_COLOR" value="ADAEAC" />
