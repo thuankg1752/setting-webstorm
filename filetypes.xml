@@ -5,6 +5,7 @@
       <mapping pattern="step" type="AUTO_DETECTED" />
       <mapping pattern="notifications" type="AUTO_DETECTED" />
       <mapping ext="ogg" type="AUTO_DETECTED" />
+      <mapping pattern="mcp.json" type="JSON5" />
       <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".eslintignore" type="PLAIN_TEXT" />
