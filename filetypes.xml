@@ -9,6 +9,7 @@
       <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".eslintignore" type="PLAIN_TEXT" />
+      <mapping ext="tmp" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="bk" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerignore" approved="true" type="DockerIgnore file" />
